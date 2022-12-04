@@ -1,0 +1,5 @@
+{
+    "HOST" : "localhost",
+    "PORT" : 47365,
+    "CANTIDAD_JUGADORES_PARTIDA": 4
+}

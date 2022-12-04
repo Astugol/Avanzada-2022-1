@@ -1,0 +1,18 @@
+{
+    "HOST": "localhost",
+    "PORT": 47365,
+    "RUTA_PANTALLA_INICIO": ["frontend", "ui_files", "ventana_inicio.ui"],
+    "RUTA_PANTALLA_ESPERA": ["frontend", "ui_files", "ventana_espera.ui"],
+    "RUTA_PANTALLA_JUEGO": ["frontend", "ui_files", "ventana_juego.ui"],
+    "RUTA_PANTALLA_FINAL": ["frontend", "ui_files", "ventana_final.ui"],
+    "FICHA_AMARILLA": "Sprites/Fichas/Simples/ficha-amarilla.png",
+    "FICHA_AMARILLA_DOBLE": "Sprites/Fichas/Dobles/fichas-amarillas.png",
+    "FICHA_ROJA": "Sprites/Fichas/Simples/ficha-roja.png",
+    "FICHA_ROJA_DOBLE": "Sprites/Fichas/Dobles/fichas-rojas.png",
+    "FICHA_AZUL": "Sprites/Fichas/Simples/ficha-azul.png",
+    "FICHA_AZUL_DOBLE": "Sprites/Fichas/Dobles/fichas-azules.png",
+    "FICHA_VERDE": "Sprites/Fichas/Simples/ficha-verde.png",
+    "FICHA_VERDE_DOBLE": "Sprites/Fichas/Dobles/fichas-verdes.png",
+    "MINIMO_JUGADORES" : 2,
+    "MAXIMO_JUGADORES" : 4
+}
